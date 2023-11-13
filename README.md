@@ -21,10 +21,9 @@ I live in Istanbul 🏫. I am improving Data Science and Data Engineer field mys
 
 ## ⚡ Technologies
 - **Data Science:** Pandas, Numpy, Statistical Libraries, Visualization Libraries 
-- **Data Engineer:** Coming Soon...
-- **DevOps:**  Coming Soon...
-- **Database:** MySQL, PostgreSQL...
-- **Artificial Intelligence:** Machine Learning Algorithms, Computer Vision
+- **Data Engineer:** PySpark, 
+- **Database:** MySQL, PostgreSQL
+- **Artificial Intelligence:** Machine Learning Algorithms, Computer Vision, Deep Learning
 
 ## 🤔 Hello World!! 
 - 💬 Ask me about anything and everything.
