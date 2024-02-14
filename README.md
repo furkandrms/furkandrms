@@ -9,8 +9,9 @@
 <h3 align="center">Data Scientist & Engineer | Machine Learning Practitioner | AI Enthusiast</h3>
 
 <p align="center">
-  📍 Living in Istanbul, honing expertise in Data Science & Engineering to leverage data for insightful decision-making.
+  📍 Based in the historical and vibrant city of Istanbul, I am passionately deepening my expertise in Data Science & Engineering. My journey is fueled by a relentless quest to transform complex data into actionable insights that drive strategic decision-making. With a keen interest in exploring the intricacies of big data, I aspire to harness its full potential to innovate and solve real-world problems.
 </p>
+
 
 ---
 
