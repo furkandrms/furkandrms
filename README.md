@@ -1,41 +1,65 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋;I+am+Furkan&center=true&size=25">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋;I+am+Furkan&center=true&size=30">
 </h1>
-<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='200'/>
 
-[![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/furkandrms) 
-[![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/furkandurmus/) 
-[![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:furkandr.durmus@gmail.com)
- 
-My name is Furkan Durmus 🧔
+<p align="center">
+  <img src="https://github.com/furkandrms/furkandrms/blob/main/batyrkhan-shalgimbekov-loExs19kh9s-unsplash.jpg" alt="AI & Deep Learning" width="500px"/>
+</p>
 
-I live in Istanbul 🏫. I am improving Data Science and Data Engineer field myself. I am currently working as a Business Analyst and Product Management at <a href=https://www.kolaybi.com/>KolayBi'</a>👨‍💻. 
+<h3 align="center">Data Scientist & Engineer | Machine Learning Practitioner | AI Enthusiast</h3>
 
-## 👯 Communities
-- Meta Developer Circle: Istanbul - Core Team (2019-♾)
+<p align="center">
+  📍 Living in Istanbul, honing expertise in Data Science & Engineering to leverage data for insightful decision-making.
+</p>
+
+---
+
+### Communities
+- Meta Developer Circle: Istanbul - Core Team (2019-2023)
 - Idea Camp (2018-2019)
 - Young Entrepreneurs Community (2017-2019)
 
+### ⚡ Technologies
+- **Data Science:** Proficient in Pandas, Numpy, and various statistical and visualization libraries.
+- **Data Engineering:** Skilled in PySpark.
+- **Database Management:** Experienced with MySQL, PostgreSQL, and Google Cloud Platform.
+- **Artificial Intelligence:** Solid background in machine learning algorithms, computer vision, and deep learning techniques.
 
-## ⚡ Technologies
-- **Data Science:** Pandas, Numpy, Statistical Libraries, Visualization Libraries 
-- **Data Engineer:** PySpark, 
-- **Database:** MySQL, PostgreSQL
-- **Artificial Intelligence:** Machine Learning Algorithms, Computer Vision, Deep Learning
+---
 
-## 🤔 Hello World!! 
-- 💬 Ask me about anything and everything.
-- 👨🏼‍💻Check my LinkedIn Account [![LinkedIn](https://img.shields.io/badge/FOLLOW%20ME-TWITTER-informational?style=flat-square&logo=Twitter&logoColor=white)](https://www.linkedin.com/in/furkandurmus/)
-- 🐥Check my Twitter Account [![Twitter](https://img.shields.io/badge/FOLLOW%20ME-TWITTER-informational?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Cosmogryal0)
-- 📫 Read my blogs: [![MEDIUM](https://img.shields.io/badge/FOLLOW%20ME-MEDIUM-orange?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@Furkandurmus)
-- 🎯 Check out my Instagram page (54k followers): [![INSTAGRAM](https://img.shields.io/badge/FOLLOW%20ME-INSTAGRAM-blueviolet?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_furkandurmus/)
-- 💁‍♂️ View also review my Kaggle works: [![KAGGLE](https://img.shields.io/badge/FOLLOW%20ME-KAGGLE-yellow?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/furkandurmus0)
+<h2 align="center">Let's Connect!</h2>
+<p align="center">
+  Reach out to me on social media or send an email for business partnerships.
+</p>  
 
+<p align="center">
+  <a href="https://twitter.com/Cosmogryal0" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
+  </a> &nbsp;
+  
+  <a href="https://medium.com/@Furkandurmus" target="_blank">
+    <img src="https://img.shields.io/badge/medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=green" alt="medium"/>
+  </a> &nbsp;
+  
+  <a href="https://www.linkedin.com/in/furkandurmus/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a> &nbsp;
+  
+  <a href="https://www.instagram.com/_furkandurmus/" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
+  </a> &nbsp;
+  
+  <a href="mailto:furkandr.durmus@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+  </a>
+</p>  
 
-## 📈 Github Stats
+---
+
+### 📈 GitHub Stats
 
 <a href="https://github.com/furkandrms/Furkan-Durmus">
- <img alt="Furkan-Durmus's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=furkandrms&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api/?username=furkandrms&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866" height="192px"/>
 </a>
+
+---
