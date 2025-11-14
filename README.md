@@ -3,35 +3,54 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/furkandrms/furkandrms/blob/main/batyrkhan-shalgimbekov-loExs19kh9s-unsplash.jpg" alt="AI & Deep Learning" width="500px"/>
+  <img src="https://github.com/furkandrms/furkandrms/blob/main/cash-macanaya-X9Cemmq4YjM-unsplash.jpg" alt="AI & Deep Learning" width="500px"/>
 </p>
 
-<h3 align="center">Data Scientist & Engineer | Machine Learning Practitioner | AI Enthusiast</h3>
+<h3 align="center">AI & Python Developer | RAG & Agentic Systems | Machine Learning Engineer</h3>
 
 <p align="center">
-  📍 Based in the historical and vibrant city of Istanbul, I am passionately deepening my expertise in Data Science & Engineering. My journey is fueled by a relentless quest to transform complex data into actionable insights that drive strategic decision-making. With a keen interest in exploring the intricacies of big data, I aspire to harness its full potential to innovate and solve real-world problems.
+  📍 As an Istanbul-based <strong>AI & Python Developer</strong>, I build upon a strong analytical foundation from my <strong>B.S. in Mathematics</strong> (Kocaeli University) to specialize in artificial intelligence and cloud-based systems. My expertise lies in designing and deploying scalable backend systems, autonomous AI agents, and RAG architectures using <strong>Python (FastAPI)</strong>, <strong>LangChain</strong>, and <strong>OpenAI</strong> models. I have hands-on experience building computer vision pipelines with <strong>Google Cloud Video AI</strong> and developing semantic search systems using <strong>MongoDB Atlas Vector Search</strong> & <strong>Supabase pgVector</strong>.
 </p>
-
 
 ---
 
-### Communities
-- Meta Developer Circle: Istanbul - Core Team (2019-2023)
-- Idea Camp (2018-2019)
-- Young Entrepreneurs Community (2017-2019)
+### 🚀 Featured Projects
 
-### ⚡ Technologies
-- **Data Science:** Proficient in Pandas, Numpy, and various statistical and visualization libraries.
-- **Data Engineering:** Skilled in PySpark.
-- **Database Management:** Experienced with MySQL, PostgreSQL, and Google Cloud Platform.
-- **Artificial Intelligence:** Solid background in machine learning algorithms, computer vision, and deep learning techniques.
+* **Autonomous Social Media Management Agent:** An AI-powered, customizable, and modular Twitter bot framework showcasing skills in Automation and Machine Learning.
+* **Multi Model Agentic Structure:** A FastAPI application powered by an agentic architecture (multi-agent system), LLM-based task routing, session/memory management, and MongoDB integration, all running in a Dockerized environment.
+* **Vision Language Models (Ongoing):** A FastAPI backend project that visualizes video analysis results from the Google Cloud Video Intelligence API using a modern Streamlit Dashboard.
+
+---
+
+### ⚡ Technologies & Tools
+
+* **Tech Languages:** Python, C#
+* **Data Science:** Proficient in Pandas, Numpy, and various statistical and visualization libraries.
+* **Programming & Frameworks:** FastAPI, LangChain, Tensorflow, Keras, PyTorch
+* **Databases:** MongoDB, Supabase, PostgreSQL
+* **Cloud & DevOps:** AWS (Elastic Beanstalk, OpenSearch, DynamoDB), Google Cloud (App Engine, Video AI), Docker, Supabase (pgVector)
+
+---
+
+### 🎓 Education & Certifications
+* **Master RAG: Ultimate Retrieval-Augmented Generation** - Udemy
+* **Data Engineer Bootcamp** - Tech Istanbul
+* **Data Scientist Bootcamp** - Miuul
+* **Applied Data Science Capstone** - IBM
+* **Bachelor of Science, Mathematics** - Kocaeli University
+
+---
+
+### 🌐 Communities
+* **Meta Developer Circle** - Project Manager/Facilitator
+* **Kocaeli University Entrepreneur Club** - Project Manager
 
 ---
 
 <h2 align="center">Let's Connect!</h2>
 <p align="center">
-  Reach out to me on social media or send an email for business partnerships.
-</p>  
+  Feel free to reach out on social media or send an email for business partnerships or just a coffee chat.
+</p>
 
 <p align="center">
   <a href="https://twitter.com/Cosmogryal0" target="_blank">
@@ -53,7 +72,7 @@
   <a href="mailto:furkandr.durmus@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
   </a>
-</p>  
+</p>
 
 ---
 
@@ -62,5 +81,3 @@
 <a href="https://github.com/furkandrms/Furkan-Durmus">
   <img src="https://github-readme-stats.vercel.app/api/?username=furkandrms&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866" height="192px"/>
 </a>
-
----
